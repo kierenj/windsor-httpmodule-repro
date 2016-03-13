@@ -6,3 +6,4 @@ Using VS Premium 2013 - 12.0.31101.00 Update 4
 4. Update WebApi.WebHost to 5.2.3
 5. Add simple demo code to Global.asax.cs
 6. Update to .NET 4.5.1 (optional - still breaks on 4.5)
+7. Add module to web.config
